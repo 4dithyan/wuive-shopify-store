@@ -3,7 +3,7 @@
 A fully functional e-commerce website built using Shopify and deployed on a custom domain.
 
 ## 🔗 Live Website
-👉 https://wuive.store  
+👉 https://wuive.in/  
 
 ## 📌 Project Overview
 Wuive is an online store developed using Shopify to sell healthcare and lifestyle products.  
